@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Repo for the `GitHub Actions Fundamentals` training. update!
+Repo for the `GitHub Actions Fundamentals` training. update! skip CI!
 
 ## 👉 Objectives
 
