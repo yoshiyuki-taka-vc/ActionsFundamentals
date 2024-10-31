@@ -1,7 +1,7 @@
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training. update! skip CI!
-
+hoge
 create pull request!
 
 ## 👉 Objectives
